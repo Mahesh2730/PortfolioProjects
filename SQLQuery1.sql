@@ -2,6 +2,7 @@
 
 Queries used for Tableau Project
 
+Covid 19 Deaths 
 */
 
 --1
